@@ -1,6 +1,11 @@
 # Upbit API 통합 문서 (v 1.5.7)
 
 이 문서는 Upbit에서 제공하는 모든 API 문서를 하나로 통합한 내용입니다.
+CLAUDE.md 혹은 cursor rule 등에서 아래 내용을 global rule 에 추가해서 사용합니다.
+
+```
+- Upbit API 및 WebSocket Interface 및 사용법은 https://raw.githubusercontent.com/ej31/upbit-api-docs/refs/heads/main/README.md 문서를 준수할 것
+```
 
 ## 주의사항
 - **시간대**: Upbit API의 TIME ZONE은 KST(한국 표준 시간) 기준으로 맞춰야 합니다.
