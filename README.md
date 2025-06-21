@@ -2,7 +2,9 @@
 
 
 > [!IMPORTANT]
-> 단순히 프롬프팅을 편하게 하기 위해 Upbit API 문서를 하나로 합쳐놓은 리포입니다. Upbit API 버전이 바뀌었는지 꼭 확인후 쓰시기 바랍니다.
+> 단순히 프롬프팅을 편하게 하기 위해 Upbit API 문서를 하나로 합쳐놓은 리포입니다.
+> 
+> Upbit API 버전이 바뀌었는지 꼭 확인후 쓰시기 바랍니다.
 
 CLAUDE.md, cursor rule 등에서 아래 내용을 global rule 에 추가해서 사용합니다.
 
